@@ -1,4 +1,4 @@
 ### Azure-Databricks-Course
-This repo includes databrick notebooks from Azure Data Brick Course from Coursera.
-Note:
-* 
+This repo includes databrick notebooks from Azure Data Brick Course from Coursera.<br />
+Note:<br />
+ - thi
